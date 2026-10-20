@@ -1,0 +1,134 @@
+﻿  studenti.cpp
+C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(14,22): error C2734: 'i': 'const' object must be initialized if not 'extern'
+C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2): error C2678: binary '>>': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(313,39):
+      could be 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_streambuf<char,std::char_traits<char>> *)': cannot convert argument 2 from 'const int' to 'std::basic_streambuf<char,std::char_traits<char>> *'
+              C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+              Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(309,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(void *&)': cannot convert argument 2 from 'const int' to 'void *&'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(305,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long double &)': cannot convert argument 2 from 'const int' to 'long double &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(301,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(double &)': cannot convert argument 2 from 'const int' to 'double &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(297,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(float &)': cannot convert argument 2 from 'const int' to 'float &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(293,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned __int64 &)': cannot convert argument 2 from 'const int' to 'unsigned __int64 &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(289,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(__int64 &)': cannot convert argument 2 from 'const int' to '__int64 &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(285,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned long &)': cannot convert argument 2 from 'const int' to 'unsigned long &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(281,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(long &)': cannot convert argument 2 from 'const int' to 'long &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(277,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned int &)': cannot convert argument 2 from 'const int' to 'unsigned int &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(269,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(int &)': cannot convert argument 2 from 'const int' to 'int &'
+              C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+              Conversion loses qualifiers
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(265,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(unsigned short &)': cannot convert argument 2 from 'const int' to 'unsigned short &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(233,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(short &)': cannot convert argument 2 from 'const int' to 'short &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(229,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(bool &)': cannot convert argument 2 from 'const int' to 'bool &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(200,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::ios_base &(__cdecl *)(std::ios_base &))': cannot convert argument 2 from 'const int' to 'std::ios_base &(__cdecl *)(std::ios_base &)'
+              C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+              Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(195,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))': cannot convert argument 2 from 'const int' to 'std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &)'
+              C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+              Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(190,39):
+      or       'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::operator >>(std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &))': cannot convert argument 2 from 'const int' to 'std::basic_istream<char,std::char_traits<char>> &(__cdecl *)(std::basic_istream<char,std::char_traits<char>> &)'
+              C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+              Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+      or       'built-in C++ operator>>(int, int)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          '>>': cannot convert argument 1 from 'std::istream' to 'int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(923,9):
+      or       '_Istr &&std::operator >>(_Istr &&,_Ty &&)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          '_Istr &&std::operator >>(_Istr &&,_Ty &&)': could not deduce template argument for '__formal'
+              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(922,102):
+              '<template-parameter>': you cannot create a pointer to a reference
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(910,31):
+      or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+          'initializing': cannot convert from 'const int' to 'unsigned char &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(904,31):
+      or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+          'initializing': cannot convert from 'const int' to 'signed char &'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(881,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)': template parameter '_Elem' is ambiguous
+              C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+              could be 'const int'
+              C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+              or       'char'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem &)': could not deduce template argument for '_Elem &' from 'const int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(875,31):
+      or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,unsigned char *)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+          'initializing': cannot convert from 'const int' to 'unsigned char *'
+              C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+              Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(870,31):
+      or       'std::basic_istream<char,_Traits> &std::operator >>(std::basic_istream<char,_Traits> &,signed char *)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+          'initializing': cannot convert from 'const int' to 'signed char *'
+              C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,9):
+              Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\istream(865,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,_Elem *)': could not deduce template argument for '_Elem *' from 'const int'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\xstring(3359,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+          'std::basic_istream<_Elem,_Traits> &std::operator >>(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'const int'
+      C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(16,2):
+      while trying to match the argument list '(std::istream, const int)'
+  
+C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(19,7): error C3892: 'i': you cannot assign to a variable that is const
+C:\Users\mihaj\source\repos\StudentskaBazaImitacija\StudentskaBazaImitacija\studenti.cpp(19,24): error C3892: 'i': you cannot assign to a variable that is const

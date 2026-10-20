@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\mihaj\source\repos\sistem za upravljanje bolnicicom OOP CPP\sistem za upravljanje bolnicicom OOP CPP\main.cpp(142,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mihaj\source\repos\sistem za upravljanje bolnicicom OOP CPP\sistem za upravljanje bolnicicom OOP CPP\main.cpp(143,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  sistem za upravljanje bolnicicom OOP CPP.vcxproj -> C:\Users\mihaj\source\repos\sistem za upravljanje bolnicicom OOP CPP\x64\Debug\sistem za upravljanje bolnicicom OOP CPP.exe

@@ -1,0 +1,3 @@
+﻿  overload.cpp
+C:\Users\mihaj\source\repos\Overload Funkcije\Overload Funkcije\overload.cpp(22,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Overload Funkcije.vcxproj -> C:\Users\mihaj\source\repos\Overload Funkcije\x64\Debug\Overload Funkcije.exe

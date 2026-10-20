@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToDo list OOP CPP", "ToDo list OOP CPP\ToDo list OOP CPP.vcxproj", "{09E78E08-C585-48EF-8F01-5607230A15F2}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "zadatak oop 2", "..\zadatak oop 2\x64\Debug\zadatak oop 2.exe", "{3BCB4F62-1EBC-ABBC-4050-0E1E7673A34E}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\mihaj\source\repos\zadatak oop 2\x64\Debug\zadatak oop 2.exe
+		RemoteMachine = DESKTOP-BAFHUP9
+		StartingDirectory = C:\Users\mihaj\source\repos\zadatak oop 2\x64\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E78E08-C585-48EF-8F01-5607230A15F2}.Debug|x64.ActiveCfg = Debug|x64
+		{09E78E08-C585-48EF-8F01-5607230A15F2}.Debug|x64.Build.0 = Debug|x64
+		{09E78E08-C585-48EF-8F01-5607230A15F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{09E78E08-C585-48EF-8F01-5607230A15F2}.Debug|x86.Build.0 = Debug|Win32
+		{09E78E08-C585-48EF-8F01-5607230A15F2}.Release|x64.ActiveCfg = Release|x64
+		{09E78E08-C585-48EF-8F01-5607230A15F2}.Release|x64.Build.0 = Release|x64
+		{09E78E08-C585-48EF-8F01-5607230A15F2}.Release|x86.ActiveCfg = Release|Win32
+		{09E78E08-C585-48EF-8F01-5607230A15F2}.Release|x86.Build.0 = Release|Win32
+		{3BCB4F62-1EBC-ABBC-4050-0E1E7673A34E}.Debug|x64.ActiveCfg = Release|x64
+		{3BCB4F62-1EBC-ABBC-4050-0E1E7673A34E}.Debug|x86.ActiveCfg = Release|x64
+		{3BCB4F62-1EBC-ABBC-4050-0E1E7673A34E}.Release|x64.ActiveCfg = Release|x64
+		{3BCB4F62-1EBC-ABBC-4050-0E1E7673A34E}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1555B3F2-394D-469D-9C9F-0DB5E462BF82}
+	EndGlobalSection
+EndGlobal

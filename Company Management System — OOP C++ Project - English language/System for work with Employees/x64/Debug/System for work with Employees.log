@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\mihaj\source\repos\System for work with Employees\System for work with Employees\main.cpp(145,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  System for work with Employees.vcxproj -> C:\Users\mihaj\source\repos\System for work with Employees\x64\Debug\System for work with Employees.exe

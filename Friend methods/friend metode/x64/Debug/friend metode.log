@@ -1,0 +1,11 @@
+﻿  friend.cpp
+C:\Users\mihaj\source\repos\friend metode\friend metode\friend.cpp(67,16): error C2665: 'Upored::Upored': no overloaded function could convert all the argument types
+      C:\Users\mihaj\source\repos\friend metode\friend metode\friend.cpp(31,2):
+      could be 'Upored::Upored(int,int)'
+          C:\Users\mihaj\source\repos\friend metode\friend metode\friend.cpp(67,16):
+          'Upored::Upored(int,int)': cannot convert argument 1 from 'const char [10]' to 'int'
+              C:\Users\mihaj\source\repos\friend metode\friend metode\friend.cpp(67,17):
+              There is no context in which this conversion is possible
+      C:\Users\mihaj\source\repos\friend metode\friend metode\friend.cpp(67,16):
+      while trying to match the argument list '(const char [10], int)'
+  

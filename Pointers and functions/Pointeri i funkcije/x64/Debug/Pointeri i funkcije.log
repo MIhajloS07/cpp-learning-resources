@@ -1,0 +1,3 @@
+﻿  pointeri.cpp
+C:\Users\mihaj\source\repos\Pointeri i funkcije\Pointeri i funkcije\pointeri.cpp(23,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Pointeri i funkcije.vcxproj -> C:\Users\mihaj\source\repos\Pointeri i funkcije\x64\Debug\Pointeri i funkcije.exe

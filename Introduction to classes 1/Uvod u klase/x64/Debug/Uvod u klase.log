@@ -1,0 +1,7 @@
+﻿  OOP.cpp
+C:\Users\mihaj\source\repos\Uvod u klase\Uvod u klase\OOP.cpp(19,36): error C2228: left of '.name' must have class/struct/union
+      C:\Users\mihaj\source\repos\Uvod u klase\Uvod u klase\OOP.cpp(19,36):
+      type is 'Person *'
+      C:\Users\mihaj\source\repos\Uvod u klase\Uvod u klase\OOP.cpp(19,36):
+      did you intend to use '->' instead?
+  

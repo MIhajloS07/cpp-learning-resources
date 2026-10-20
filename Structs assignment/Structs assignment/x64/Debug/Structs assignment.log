@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\VISUAL STUDIO\c++\Structs assignment\Structs assignment\Source.cpp(34,20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+E:\VISUAL STUDIO\c++\Structs assignment\Structs assignment\Source.cpp(88,12): warning C4076: 'unsigned': cannot be used with type 'float'
+  Structs assignment.vcxproj -> E:\VISUAL STUDIO\c++\Structs assignment\x64\Debug\Structs assignment.exe

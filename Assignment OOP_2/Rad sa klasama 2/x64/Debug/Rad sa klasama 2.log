@@ -1,0 +1,12 @@
+﻿  klase.cpp
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(71,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(100,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(115,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(118,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(137,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(140,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(143,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(146,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(180,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\mihaj\source\repos\Rad sa klasama 2\Rad sa klasama 2\klase.cpp(183,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Rad sa klasama 2.vcxproj -> C:\Users\mihaj\source\repos\Rad sa klasama 2\x64\Debug\Rad sa klasama 2.exe

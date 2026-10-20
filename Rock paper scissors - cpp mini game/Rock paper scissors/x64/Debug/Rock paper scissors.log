@@ -1,0 +1,3 @@
+﻿  minigame.cpp
+C:\Users\mihaj\source\repos\Rock paper scissors\Rock paper scissors\minigame.cpp(27,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rock paper scissors.vcxproj -> C:\Users\mihaj\source\repos\Rock paper scissors\x64\Debug\Rock paper scissors.exe
