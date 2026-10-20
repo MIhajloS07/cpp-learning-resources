@@ -50,7 +50,7 @@
 | Audience | What you get |
 | --- | --- |
 | 🎓 **Students & beginners** | A gentle, ordered path with runnable examples for every concept. |
-| 🔁 **Developers switching to C++** | Quick refreshers on pointers, memory, templates and the STL. |
+| 🔁 **Developers switching to C++** | Quick refreshers on pointers, memory, templates and the STL through hands-on projects. |
 | 💼 **Recruiters & hiring managers** | A transparent record of how I learn, structure code and document it — see [Skills demonstrated](#skills-demonstrated). |
 
 ## Learning path
@@ -66,7 +66,7 @@ The material follows a progressive roadmap. Each stage builds on the previous on
 | **5** | Templates & the STL | Function/class templates, `vector`, `map`, `set`, iterators, `<algorithm>`, lambdas |
 | **6** | Memory management | Stack vs heap, RAII, `unique_ptr`, `shared_ptr`, rule of 3/5/0 |
 | **7** | Error handling & files | Exceptions, `fstream`, text/binary I/O, `std::filesystem` |
-| **8** | Data structures & algorithms | Linked lists, stacks, queues, trees, sorting & searching, complexity |
+| **8** | Data structures & algorithms | sorting & searching, complexity |
 | **9** | Modern C++ & projects | Move semantics, `auto`, ranges, `std::optional`, CMake, complete mini-projects |
 
 > 💡 Start at the stage that matches your level — each folder is self-contained.
