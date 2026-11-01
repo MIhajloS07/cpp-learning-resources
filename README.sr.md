@@ -66,7 +66,7 @@ Materijal prati progresivni plan. Svaka faza se nadovezuje na prethodnu.
 | **5** | Šabloni i STL | Funkcijski/klasni šabloni, `vector`, `map`, `set`, iteratori, `<algorithm>`, lambde |
 | **6** | Upravljanje memorijom | Stek i heap, RAII, `unique_ptr`, `shared_ptr`, pravilo 3/5/0 |
 | **7** | Obrada grešaka i fajlovi | Izuzeci, `fstream`, tekstualni/binarni I/O, `std::filesystem` |
-| **8** | Strukture podataka i algoritmi | Povezane liste, stek, red, stabla, sortiranje i pretraga, složenost |
+| **8** | Strukture podataka i algoritmi | sortiranje i pretraga, složenost... |
 | **9** | Moderni C++ i projekti | Move semantika, `auto`, ranges, `std::optional`, CMake, kompletni mini-projekti |
 
 > 💡 Kreni od faze koja odgovara tvom nivou — svaki folder je samostalna celina.
